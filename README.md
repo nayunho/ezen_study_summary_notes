@@ -1,6 +1,6 @@
 # ezen_study_summary_notes
   
-  ###  [자바][github1]
+  ###  [자바(JAVA)][github1]
 
   ###  [데이터베이스(SQL)][github2]
 
