@@ -16,8 +16,7 @@
 
   ###  [Python][github8]
 
-
-<img src="./거위/00.파이썬설치 및 설정_06_단축키(1).PNG" width=850 height=450>    
+ 
 
 
   
