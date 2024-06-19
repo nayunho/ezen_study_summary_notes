@@ -10,7 +10,7 @@
 
   ###  [HTML & CSS & JavaScript][github5]
 
-  ###  [SPRING][github6](김영한의 스프링)
+  ###  [SPRING][github6]김영한의 스프링
   
   ###  [JQUERY & class 디자인 & 데이터 전송][github7]
 
